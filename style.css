@@ -1,0 +1,125 @@
+body {
+            background-color: #0d0c0c;   
+   }
+   #container {
+		   width: 1100px;
+		   margin: 0 auto;
+		   background-color: #0d0c0c;
+		   color: white;
+		   font-family:'Raleway', sans-serif;
+		   
+   }
+headher {
+            background-color: black;
+			padding: 0px;		
+   }
+headher h2 {
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	
+	
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0d0c0c;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 35px 100px;
+	font-family: serif;
+	font-size: 17px;
+	
+}
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+nav li a:hover {
+  background-color: #111;
+}
+footer {
+            background-color: #0d0c0c;
+            padding: 40px;			
+   }
+footer p {
+	margin: 0;
+}
+  .big-pic {
+  width: 1100px;
+  margin-top: 20px;
+ 
+  
+  }
+  
+#one-column {
+	font-size: 30px;
+	font-family: serif;
+    padding: 100px 44px;
+    font-weight: 100;
+    text-transform: uppercase;
+	text-decoration: none;
+    position: absolute;
+    top: 81%;
+    left: 45%;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 300px;
+    padding-bottom: 100px;
+    
+}
+
+#box {
+	width: 580px;
+    height: 400px;
+    color: white;
+    padding: 150px 10px 0px 10px;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+
+.screenshot {
+	border: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.screenshot img {
+    margin-top: 80px;
+    width: 550px;
+    border: none;
+}
+
+#facebook {
+    margin-left: 0px;
+}
+
+
+
